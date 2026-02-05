@@ -29,17 +29,15 @@ All stages of the analysis — data preparation, exploratory analysis, modeling,
 The dataset contains both **categorical** and **numerical** variables:
 
 - **Categorical variables:**
-  - Gender
   - SeniorCitizen
   - Contract type
   - Payment method
-  - Internet and phone service options
+  - Customer Dependents
   - Churn (target variable)
 
 - **Numerical variables:**
   - Customer tenure
   - Daily bill
-  - Total charges
 
 This classification guided the choice of encoding and normalization techniques applied during preprocessing.
 
